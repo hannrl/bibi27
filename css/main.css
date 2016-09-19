@@ -36,7 +36,7 @@
 	width: 50px;
 }
 
-a>h2:focus {
+a>h2:active {
 	color: yellow;
 	font-weight: bolder;
 }
@@ -215,7 +215,7 @@ p {
 		font-size: 6vw;
 	}
 
-	h2:focus {
+	a>h2:active {
 		color: blue;
 	}
 
