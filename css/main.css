@@ -36,7 +36,7 @@
 	width: 50px;
 }
 
-a>h2:hover {
+a>h2:focus {
 	color: yellow;
 	font-weight: bolder;
 }
@@ -213,6 +213,10 @@ p {
 
 	h2{
 		font-size: 6vw;
+	}
+
+	h2:focus {
+		color: blue;
 	}
 
 	h3 {
