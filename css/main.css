@@ -36,7 +36,7 @@
 	width: 50px;
 }
 
-a>h2:active {
+h2:hover {
 	color: yellow;
 	font-weight: bolder;
 }
@@ -213,10 +213,6 @@ p {
 
 	h2{
 		font-size: 6vw;
-	}
-
-	a>h2:active {
-		color: blue;
 	}
 
 	h3 {
