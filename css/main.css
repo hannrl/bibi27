@@ -211,12 +211,7 @@ p {
 	}
 
 	h2{
-		font-size: 5vw;
-	}
-	
-	h2:active {
-		color: yellow;
-		font-weight: bold;
+		font-size: 6vw;
 	}
 
 	h3 {
