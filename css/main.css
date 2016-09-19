@@ -206,7 +206,8 @@ p {
 
 @media screen and (max-width: 599px) and (min-width: 320px) {
 	h1{
-		font-size: 8vw;
+		font-size: 9vw;
+		line-height: 95%;
 		margin-top: 15%;
 	}
 
@@ -216,6 +217,7 @@ p {
 
 	h3 {
 		font-size: 3vw;
+		margin-top: 0;
 	}
 
 	h4 {
